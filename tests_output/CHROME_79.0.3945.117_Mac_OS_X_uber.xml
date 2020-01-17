@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="uber"
+    errors="0" failures="0" hostname="" id="" package="uber" skipped="0"
+    tests="2" time="12.47" timestamp="">
+  
+    <testcase name="Test if register page exit" classname="uber" time="6.868" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Check Registration blocks in two sections" classname="uber" time="5.605" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
